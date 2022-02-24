@@ -1,0 +1,27 @@
+.header__option {
+  color: grey;
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+.header__option:hover {
+  color: black;
+}
+
+.header__right {
+  display: flex;
+}
+
+.header__title {
+  font-weight: 400;
+}
+
+.headerOption__icon {
+  object-fit: contain;
+  height: 25px !important;
+  width: 25px !important;
+}
+
+.headerOption__avatar {
+  height: 25px !important;
+}
